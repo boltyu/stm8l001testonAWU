@@ -1,0 +1,18 @@
+firmwarelib\stm8l10x_clk.c
+firmwarelib\stm8l10x_exti.c
+firmwarelib\stm8l10x_gpio.c
+firmwarelib\stm8l10x_itc.c
+firmwarelib\stm8l10x_tim3.c
+firmwarelib\stm8l10x_wfe.c
+main.c
+stm8_interrupt_vector.c
+firmwarelib\stm8l10x.h
+firmwarelib\stm8l10x_clk.h
+firmwarelib\stm8l10x_conf.h
+firmwarelib\stm8l10x_exti.h
+firmwarelib\stm8l10x_gpio.h
+firmwarelib\stm8l10x_itc.h
+firmwarelib\stm8l10x_tim3.h
+firmwarelib\stm8l10x_wfe.h
+d:\program files (x86)\stmicroelectronics\cosmic\fse_compilers\cxstm8\hstm8\mods0.h
+firmwarelib\stm8l10x_awu.h
